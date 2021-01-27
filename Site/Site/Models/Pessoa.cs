@@ -7,7 +7,7 @@ using System.Web;
 
 namespace Site.Models
 {
-    public class Pessoa
+    public class pessoa
     {
         [Key]
         public int Id { get; set; }

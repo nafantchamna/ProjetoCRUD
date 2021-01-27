@@ -6,8 +6,8 @@ using System.Data.Entity;
 
 namespace Site.Models
 {
-    public class Contexto : DbContext
+    public class contexto : DbContext
     {
-        public DbSet<Pessoa> Pessoas { get; set; }
+        public DbSet<pessoa> Pessoas { get; set; }
     }
 }
