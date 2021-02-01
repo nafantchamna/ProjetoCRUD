@@ -159,7 +159,6 @@ C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\bin\System.Web.WebPages.R
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\bin\Newtonsoft.Json.xml
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\bin\Antlr3.Runtime.pdb
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\obj\Debug\Site.csprojAssemblyReference.cache
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\obj\Debug\Site.csproj.CopyComplete
 C:\Users\treinamento\Desktop\MVC\ProjetoCRUD\Site\Site\obj\Debug\Site.dll
